@@ -43,7 +43,7 @@ User ID | Item Id | Rating | Timestamp | Year
 
 ```
 cd BPR/
-python test.py --path data/ --data movielens --selected_year 5 --gpu 1
+python test.py --path ../Dataset/ --data movielens --selected_year 5 --gpu 1
 ```
 
 
