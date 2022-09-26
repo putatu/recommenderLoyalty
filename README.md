@@ -2,7 +2,7 @@
 
 Code to reproduce the experiments from the paper: Do Loyal Users Enjoy Better Recommendations?: Understanding Recommender Accuracy from a Time Perspective (ICTIR2022)
 
-This repository has the implementations for four models:
+This repository has the implementations for five models:
 1. BPR
 2. NeuMF: we follow https://github.com/hexiangnan/neural_collaborative_filtering
 3. LightGCN: we follow https://github.com/RUCAIBox/RecBole
